@@ -1,0 +1,26 @@
+{
+  "description": null,
+  "main": "src/index.js",
+  "dependencies": {
+    "@apollo/react-hooks": "3.1.5",
+    "apollo-boost": "0.4.7",
+    "graphql": "15.0.0",
+    "react": "^16",
+    "react-dom": "^16",
+    "react-live": "2.2.2",
+    "react-window": "^1",
+    "styled-components": "5.1.0"
+  },
+  "keywords": [],
+  "name": "spreadsheet-v1",
+  "version": "0.0.121",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
